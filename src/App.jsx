@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import ShoeIndex from "./components/ShoeIndex";
 
 // Import and start MirageJS server
-import { makeServer } from "../server"; // Make sure this path is correct
+//import { makeServer } from "../server"; // Make sure this path is correct
 
 // makeServer();
 
